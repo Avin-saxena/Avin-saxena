@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avin-saxena&label=Profile%20views&color=0e75b6&style=flat" alt="avin-saxena" /> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **MERN , Programming**
 
