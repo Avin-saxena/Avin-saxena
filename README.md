@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Avin Saxena</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avin-saxena&label=Profile%20views&color=0e75b6&style=flat" alt="avin-saxena" /> </p>
 
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **MERN , Programming**
+- 💬 Ask me about **Full Stack , Programming**
 
 - 📫 How to reach me **avin12121111@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
